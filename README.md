@@ -1,3 +1,8 @@
+
+
+https://user-images.githubusercontent.com/69933606/181718995-341d52c0-22a4-4c47-8b3f-2d4d46d7879f.mp4
+
+
 # Sports_Celeb_Classifier
 End to End Machine learning project data science project for sports celebrity image classification. 
 1) End to end machine learning or data science project
